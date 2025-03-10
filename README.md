@@ -1,5 +1,5 @@
 # Godot code assistant using RAG
 
-### To-D0
+### To-Do
 
 1. 
